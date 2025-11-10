@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Olá, bem-vindo ao meu perfil!
 
-<!--
-**ketlen-dutra/ketlen-dutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section>
+  <h2 style="margin:0 0 8px;">📌 Repositórios destacados</h2>
+  <!-- Grid simples com tabela (compatível com GitHub) -->
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td style="vertical-align:top; padding:8px; border:1px solid #eaecef;">
+        <h3 style="margin:0 0 6px; font-size:16px;">
+          <a href="https://github.com/ketlen-dutra/desafio-tecnico-qa-lacrei-saude"</a>
+        </h3>
+        <p style="margin:0 0 8px; font-size:14px;">
+          <!-- Descrição curta -->
+          Repositório de testes da plataforma Lacrei Saúde, contendo funcionais (usando a linguagem Gherkin), automatizados, performance, acessibilidade e responsividade
+        </p>
+        <p style="margin:0; font-size:12px;">
+          💻 VScode • BDD • Cypress • JMeter<br />
+        </p>
+</section>
