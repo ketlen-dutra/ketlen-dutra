@@ -33,7 +33,7 @@
           Repositório com exercícios de lógica de programação com javascript.
         </p>
         <p style="margin:0; font-size:12px;">
-          🔧 HTML • JavaScript • VSCode • Git
+          🔧 HTML • CSS • JavaScript • Node.js • VSCode • Git
         </p>
       </td>
     </tr>
